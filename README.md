@@ -1,3 +1,3 @@
 # SpringMVC
-CRUD приложение с использованием JdbcTamplate.
+CRUD приложение с использованием JdbcTamplate.\n
 Код представлен в ветке master.

@@ -1,2 +1,2 @@
 # SpringMVC
-CRUD приложение с использованием JsbcTamplate.
+CRUD приложение с использованием JdbcTamplate.

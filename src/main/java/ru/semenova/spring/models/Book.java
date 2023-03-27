@@ -1,7 +1,9 @@
 package ru.semenova.spring.models;
 
-import javax.validation.constraints.Min;
-import javax.validation.constraints.NotEmpty;
+//import javax.validation.constraints.Min;
+//import javax.validation.constraints.NotEmpty;
+
+import jakarta.validation.constraints.*;
 
 public class Book {
 

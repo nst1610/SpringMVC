@@ -10,7 +10,7 @@ import ru.semenova.spring.dao.PersonDAO;
 import ru.semenova.spring.models.Book;
 import ru.semenova.spring.models.Person;
 
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 
 @Controller
 @RequestMapping("/books")

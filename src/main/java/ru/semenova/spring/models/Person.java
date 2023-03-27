@@ -1,7 +1,7 @@
 package ru.semenova.spring.models;
 
 //старое
-import javax.validation.constraints.*;
+import jakarta.validation.constraints.*;
 
 public class Person {
     private int id;

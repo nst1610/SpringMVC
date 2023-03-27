@@ -10,7 +10,7 @@ import ru.semenova.spring.dao.PersonDAO;
 import ru.semenova.spring.models.Person;
 import ru.semenova.spring.util.PersonValidator;
 
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 import java.net.BindException;
 
 @Controller
